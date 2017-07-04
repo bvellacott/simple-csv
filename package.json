@@ -1,6 +1,6 @@
 {
   "name": "simple-csv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple js tool to render standards compliant csv's",
   "main": "index.js",
   "scripts": {

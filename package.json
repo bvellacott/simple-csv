@@ -1,14 +1,14 @@
 {
-  "name": "simple-csv",
+  "name": "simple-csv-string",
   "version": "1.0.1",
-  "description": "A simple js tool to render standards compliant csv's",
+  "description": "A simple js tool to render standards compliant csv strings",
   "main": "index.js",
   "scripts": {
     "test": "node runTests.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bvellacott/simple-csv"
+    "url": "https://github.com/bvellacott/simple-csv-string"
   },
   "keywords": [
     "simple",

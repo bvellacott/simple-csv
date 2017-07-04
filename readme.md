@@ -1,16 +1,16 @@
-# Simple csv
+# Simple csv string
 A simple js tool to render standards compliant csv's. See https://en.wikipedia.org/wiki/Comma-separated_values for the spec.
 
 ## installation
 
 ```bash
-npm install --save simple-csv
+npm install --save simple-csv-string
 ```
 
 ## usage
 
 ```js
-var Csv = require('simple-csv');
+var Csv = require('simple-csv-string');
 
 // add the header line in the constructor
 var csv = new Csv(['header1', 'header2', 'header3', 'header4', 'header5']);

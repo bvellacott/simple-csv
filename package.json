@@ -1,0 +1,25 @@
+{
+  "name": "simple-csv",
+  "version": "1.0.0",
+  "description": "A simple js tool to render standards compliant csv's",
+  "main": "index.js",
+  "scripts": {
+    "test": "node runTests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bvellacott/simple-csv"
+  },
+  "keywords": [
+    "simple",
+    "csv",
+    "standard",
+    "compliant",
+    "render"
+  ],
+  "author": "Benjamin Vellacott",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "3.4.2"
+  }
+}
